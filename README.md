@@ -5,8 +5,8 @@ Welcome to the Twitter Broadcast Downloader, a script that allows you to downloa
 ## How to Use
 
 1. To get the Broadcast ID, visit the Twitter broadcast URL and extract it from the end of the URL.
-   - Example URL: `https://twitter.com/i/broadcasts/id_here_example`
-   - Broadcast ID: `id_here_example`
+   - Example URL: `https://twitter.com/i/broadcasts/123456789`
+   - Broadcast ID: `123456789`
 
 2. Input the Twitter Broadcast URL or ID when prompted by the script.
 
