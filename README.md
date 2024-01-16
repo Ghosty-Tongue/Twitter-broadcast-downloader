@@ -13,7 +13,7 @@ Welcome to the Twitter Broadcast Downloader, a script that allows you to downloa
 ## Usage
 
 ```
-python twitter_broadcast_downloader.py
+python main.py
 ```
 
 ## Requirements
