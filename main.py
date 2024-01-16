@@ -72,8 +72,8 @@ print("You can input either the Twitter Broadcast URL or ID directly.")
 # How-to explanation
 print("\nHow to use:")
 print("1. To get the Broadcast ID, visit the Twitter broadcast URL and extract it from the end of the URL.")
-print("   Example URL: 'https://twitter.com/i/broadcasts/id_here_example'")
-print("   Broadcast ID: 'id_here_example'")
+print("   Example URL: 'https://twitter.com/i/broadcasts/123456789'")
+print("   Broadcast ID: '123456789'")
 print("2. Input the Twitter Broadcast URL or ID when prompted.")
 
 # Input for the Twitter broadcast URL or ID
