@@ -21,7 +21,7 @@ python main.py
 - Python 3
 - Requests library (install with `pip install requests`)
 
-**Note:** Anything you do with this script is solely your responsibility. If you violate Twitter's terms of service, get banned, or face any consequences due to API misuse, it won't be the author's fault nor responsibility.
+**Note:** Anything you do with this script is solely your responsibility. If you violate Twitter's terms of service, get banned, or face any consequences due to API misuse, it won't be My fault nor responsibility for your mistakes.
 
 ## License
 
