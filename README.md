@@ -1,6 +1,6 @@
-# Twitter Broadcast Downloader
+# Twitter/X Broadcast Downloader
 
-a script that allows you to download Twitter broadcast details and the associated M3U8 file. You can input either the Twitter/X Broadcast URL or ID directly.
+a script that allows you to download Twitter/X broadcast details and the associated M3U8 file. You can input either the Twitter/X Broadcast URL or ID directly.
 
 ## How to Use
 
